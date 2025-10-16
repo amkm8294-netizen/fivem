@@ -1,8 +1,9 @@
+start
 ---
 ns: CFX
 apiset: server
 ---
-## GET_HOST_ID
+## GET_HOST_ID 
 
 ```c
 char* GET_HOST_ID();
